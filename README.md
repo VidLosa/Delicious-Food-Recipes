@@ -1,6 +1,6 @@
 # Delicious-Food-Recipes
 
-A thinkful assignment meant to practise making a CRUD application. That is: Create, Read, Update, and Delete. The website allows you to add and remove recipes and meets these parameters:
+A thinkful assignment meant to practice making a CRUD application. That is: Create, Read, Update, and Delete. The website allows you to add and remove recipes and meets these parameters:
 
 All tests are passing in Qualified.
 
